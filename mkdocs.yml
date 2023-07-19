@@ -1,0 +1,7 @@
+site_name: "demo-node-3 Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
